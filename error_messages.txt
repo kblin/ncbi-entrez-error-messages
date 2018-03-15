@@ -1,0 +1,11 @@
+Error reading from remote server
+Bad gateway
+Bad Gateway
+Cannot process ID list
+server is temporarily unable to service your request
+Service unavailable
+Server Error
+ID list is empty
+Resource temporarily unavailable
+Failed to retrieve sequence
+Failed to understand id
