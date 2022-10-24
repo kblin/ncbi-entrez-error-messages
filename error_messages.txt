@@ -6,6 +6,7 @@ server is temporarily unable to service your request
 Service unavailable
 Server Error
 ID list is empty
+Supplied id parameter is empty
 Resource temporarily unavailable
 Failed to retrieve sequence
 Failed to understand id
